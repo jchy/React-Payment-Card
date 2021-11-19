@@ -1,0 +1,56 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+}
+.App{
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  /* padding: 5px; */
+}
+.firstCard{
+  border-radius: 5px;
+  height: 250px;
+  background-color: rgb(255,165,0);
+  padding: 50px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.secCard{
+  height: 250px;
+  background-color: rgb(245,245,245);
+  margin-top: 20px;
+  padding: 50px;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.dFlex{
+  display:flex;
+}
+#date{
+  width: 80%;
+  
+}
+#log{
+  width: 10%;
+}
+#logoImg{
+  height: 70px;
+  width: 60px;
+}
+
+.btn{
+  color: white;
+  background-color: black;
+  height:30px;
+  padding: 3px;
+  width: 100px;
+  margin-top: -5px;
+  border: 1px solid black;
+  font-size:16px;
+}
+.bigFont{
+  font-size:30px;
+  line-height:5px;
+}
